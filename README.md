@@ -22,27 +22,6 @@ The goal was to practice modern layout techniques, UI structuring, and clean pro
 
 ---
 
-## 📂 Folder Structure
-Amazon-Home-Page-Clone/
-│
-├── index.html
-├── css/
-│ └── style.css
-│
-├── assets/
-│ ├── images/
-│ │ ├── amazon_logo.png
-│ │ ├── hero_image.jpg
-│ │ ├── box1_image.jpg
-│ │ └── ...
-│ └── screenshots/
-│ └── preview.png
-│
-├── .gitignore
-└── README.md
-
----
-
 ## ⚙️ Setup Instructions
 1. Clone the repository:
    ```bash
